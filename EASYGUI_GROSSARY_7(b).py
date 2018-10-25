@@ -1,3 +1,7 @@
+# Jayendra Patil
+# roll no: 19, gr no: 11810706 
+# To print total bill of bought items 
+# question: 7(b)
 from easygui import *
 import sys
 while 1:
