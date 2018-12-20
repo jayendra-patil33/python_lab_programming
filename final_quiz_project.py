@@ -90,8 +90,6 @@ while(line != ""):
 file.close()
 index = -1                               #index is first set to -1 
 number_of_questions = len(question)
-print(correctLetter)
-print(question)
 window = Tk()                             #declaration of main window
 view=Frame(window,width=15, height=10)
 button = Button(view, text="Start", command=askQuestion,width=10,height=2)
